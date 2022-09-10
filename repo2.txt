@@ -1,0 +1,2 @@
+This is repo2.txt
+for remote to local
